@@ -1,4 +1,4 @@
-# 🚗 Cars Dataset Analysis  
+#  Cars Dataset Analysis  
 
 Exploratory Data Analysis (EDA) of the **Cars Dataset** with 428 entries and 15 features.  
 This project covers data cleaning, feature engineering, exploratory analysis, visualizations, and insights.  
@@ -59,8 +59,7 @@ Analysis included:
 [![Visualization 2](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/3.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/3.png?raw=true)  
 [![Visualization 3](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/55.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/55.png?raw=true)  
 
-3. **Correlation Heatmap**  
-[![Heatmap](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/images/heatmap.png?raw=true)]
+
 
 ##  Key Insights  
 
