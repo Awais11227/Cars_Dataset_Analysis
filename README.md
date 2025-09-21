@@ -5,7 +5,7 @@ This project covers data cleaning, feature engineering, exploratory analysis, vi
 
 ---
 
-## 📂 Dataset Overview  
+##  Dataset Overview  
 
 The dataset contains both categorical and numerical features:  
 
@@ -17,7 +17,7 @@ The dataset contains both categorical and numerical features:
 
 ---
 
-## 🧹 Data Cleaning  
+##  Data Cleaning  
 
 Steps taken to prepare the dataset:  
 - Handled missing values (Cylinders filled with median).  
@@ -28,7 +28,7 @@ Steps taken to prepare the dataset:
 
 ---
 
-## 🛠 Feature Engineering  
+##  Feature Engineering  
 
 Created additional columns to enrich the dataset:  
 - **Price_Difference** = MSRP – Invoice  
@@ -37,7 +37,7 @@ Created additional columns to enrich the dataset:
 
 ---
 
-## 🔍 Exploratory Data Analysis  
+##  Exploratory Data Analysis  
 
 Analysis included:  
 - **Groupby** for comparing regions (Asia, Europe, USA)  
@@ -47,26 +47,25 @@ Analysis included:
 
 ---
 
+## Visualizations  
+
 ## 🎨 Visualizations  
 
 1. **Dataset Preview**  
-   ![Dataset Preview](images/dataset_preview.png)  
+[![Dataset Preview](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/1.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/1.png?raw=true)  
 
 2. **Sample Visualizations**  
-   - Histogram (MSRP distribution)  
-   - Boxplot (Invoice Price by Region)  
-
-   ![Visualizations](images/visualizations.png)  
+[![Visualization 1](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/56.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/56.png?raw=true)  
+[![Visualization 2](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/3.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/3.png?raw=true)  
+[![Visualization 3](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/55.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/55.png?raw=true)  
 
 3. **Correlation Heatmap**  
-   - Shows relationships between numerical variables  
-   - Example: Weight ↔ Horsepower (positive), Weight ↔ MPG (negative)  
+[![Heatmap](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/images/heatmap.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/images/heatmap.png?raw=true)  
 
-   ![Heatmap](images/heatmap.png)  
 
 ---
 
-## 📌 Key Insights  
+##  Key Insights  
 
 - **Fuel Efficiency & Weight** → Heavier cars have lower MPG.  
 - **Horsepower & Cylinders** → Most cars: 4–6 cylinders, 200–250 HP.  
@@ -79,9 +78,9 @@ Analysis included:
 
 ---
 
-## 🚀 Tech Stack  
+##  Tech Stack  
 
-- Python 🐍  
+- Python 
 - Pandas  
 - NumPy  
 - Matplotlib  
@@ -89,7 +88,7 @@ Analysis included:
 
 ---
 
-## 📄 How to Run  
+##  How to Run  
 
 1. Clone the repo  
    ```bash
