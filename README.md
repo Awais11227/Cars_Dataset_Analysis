@@ -49,7 +49,7 @@ Analysis included:
 
 ## Visualizations  
 
-## 🎨 Visualizations  
+
 
 1. **Dataset Preview**  
 [![Dataset Preview](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/1.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/1.png?raw=true)  
@@ -60,10 +60,7 @@ Analysis included:
 [![Visualization 3](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/55.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/55.png?raw=true)  
 
 3. **Correlation Heatmap**  
-[![Heatmap](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/images/heatmap.png?raw=true)](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/images/heatmap.png?raw=true)  
-
-
----
+[![Heatmap](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/images/heatmap.png?raw=true)]
 
 ##  Key Insights  
 
