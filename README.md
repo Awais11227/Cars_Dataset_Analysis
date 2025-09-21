@@ -13,7 +13,7 @@ The dataset contains both categorical and numerical features:
 - **Numerical**: MSRP, Invoice, Engine Size, Cylinders, Horsepower, MPG (City & Highway), Weight, Wheelbase, Length  
 
 **Shape**: 428 rows × 15 columns  
-https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/1.png
+![Dataset Preview](https://github.com/Awais11227/Cars_Dataset_Analysis/blob/main/1.png?raw=true)
 
 ---
 
